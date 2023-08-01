@@ -1,0 +1,29 @@
+{
+    "name": "GlobalRegulatoryFramework",
+    "extension-version": "1.0.0",
+    "sdk-version": "7.2.0",
+    "publisher": "Sample",
+    "cards": [
+        {
+            "type": "GlobalRegulatoryFrameworkCard",
+            "title": "GlobalRegulatoryFramework Card",
+            "displayCardType": "GlobalRegulatoryFramework Card",
+            "description": "This is an introductory card to the Ellucian Experience SDK",
+            "componentFile": "GlobalRegulatoryFrameworkCard-66ac584adde475d1ade6.js",
+            "pageRoute": {
+                "route": "/",
+                "excludeClickSelectors": [
+                    "a"
+                ]
+            }
+        }
+    ],
+    "adminComponents": [],
+    "otherAssets": [],
+    "page": {
+        "componentFile": "Page-54d126b10150f212a4a3.js",
+        "allowPublicAccess": false,
+        "fullWidth": false,
+        "backgroundColor": "default"
+    }
+}
